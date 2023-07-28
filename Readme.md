@@ -1,6 +1,8 @@
 Vertebra Keypoint association and filtering pipeline Dataset
 ============================================================
 
+[Spine Image](img/spines.png)
+
 This is the accompanying dataset for the paper: 
 Robust vertebra identification using simultaneous node and edge predicting Graph Neural Networks
 Authors: Vincent Bürgin, Raphael Prevost, Marijn F. Stollenga
